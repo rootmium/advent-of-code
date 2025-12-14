@@ -1,1 +1,4 @@
 * Advent of code
+
+Most of the solutions are done on stream during the Adevnt of Code event.
+Twitch: [[Rootmium][https://twitch.tv/rootmium]]
